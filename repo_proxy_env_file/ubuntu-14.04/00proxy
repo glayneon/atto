@@ -1,0 +1,3 @@
+Acquire::http::Proxy "http://repos.atto.io:9999";
+Acquire::https::Proxy "http://repos.atto.io:9999";
+Acquire::ftp::Proxy "http://repos.atto.io:9999";
