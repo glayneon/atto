@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /sbin/ntpdate ntp1.atto.io >&2> /dev/null
